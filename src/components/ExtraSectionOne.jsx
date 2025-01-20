@@ -4,7 +4,7 @@ const ExtraSectionOne = () => {
   return (
     <div className="p-8 bg-white dark:bg-gray-800">
       <h2 className="text-3xl font-bold text-center mb-8 text-gray-800 dark:text-gray-200">
-        Why Choose EquiFoods?
+        Why Choose OurFoods?
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <div className="text-center">
