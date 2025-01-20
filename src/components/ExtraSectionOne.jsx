@@ -11,7 +11,7 @@ const ExtraSectionOne = () => {
           <img
             src="https://example.com/freshness.jpg"
             alt="Fresh Ingredients"
-            className="w-24 mx-auto mb-4"
+            className="w-24 mx-auto mb-5"
           />
           <h3 className="text-xl font-bold mb-2">Fresh Ingredients</h3>
           <p className="text-gray-600 dark:text-gray-400">
