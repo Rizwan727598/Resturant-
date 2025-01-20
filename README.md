@@ -63,16 +63,6 @@ Access the live website here: [Restaurant Management Website](https://resturant-
 - `dotenv`
 - `mongodb`
 
-## How to Run Locally
+  ```
 
-### Prerequisites
-
-- Node.js installed
-- MongoDB setup
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   ```
+  ```
