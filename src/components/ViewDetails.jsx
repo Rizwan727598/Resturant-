@@ -38,7 +38,7 @@ const ViewDetails = () => {
   }
 
   return (
-    <div className="p-7 bg-gradient-to-br from-gray-50 to-gray-200 dark:from-gray-800 dark:to-gray-900 min-h-screen flex items-center justify-center">
+    <div className="p-6 bg-gradient-to-br from-gray-50 to-gray-200 dark:from-gray-800 dark:to-gray-900 min-h-screen flex items-center justify-center">
       <div className="max-w-lg w-full bg-white dark:bg-gray-800 shadow-xl rounded-lg overflow-hidden">
         <div className="relative">
           <img
