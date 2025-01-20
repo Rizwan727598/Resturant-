@@ -12,7 +12,7 @@ const ExtraSectionTwo = () => {
             "The food here is amazing! Highly recommend the pizza!"
           </p>
           <p className="text-gray-800 dark:text-gray-300 font-bold">
-            - John Doe
+            - John Doeh
           </p>
         </div>
         <div className="text-center">
