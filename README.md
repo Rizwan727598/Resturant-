@@ -62,7 +62,3 @@ Access the live website here: [Restaurant Management Website](https://resturant-
 - `jsonwebtoken`
 - `dotenv`
 - `mongodb`
-
-  ```
-
-  ```
