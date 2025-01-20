@@ -74,7 +74,7 @@ const AddFood = () => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto mt-9 p-8 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
+    <div className="max-w-4xl mx-auto mt-10 p-8 bg-white dark:bg-gray-800 shadow-lg rounded-lg">
       <h2 className="text-3xl font-bold text-gray-800 dark:text-gray-200 mb-8 text-center">
         Add New Food Item
       </h2>
