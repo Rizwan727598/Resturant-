@@ -88,7 +88,7 @@ const HomePage = () => {
         </Swiper>
       </div>
 
-      {/* Top Foods Section */}
+      {/* Top Foods Sections */}
       <div className="py-16 px-6 bg-white dark:bg-gray-900">
         <Zoom duration={1200}>
           <h2 className="text-4xl font-bold text-center text-gray-800 dark:text-gray-200 mb-8">
